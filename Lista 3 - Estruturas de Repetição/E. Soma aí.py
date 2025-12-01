@@ -8,5 +8,5 @@ while confirmacao == 's' or confirmacao == 'S':
     quantidade += 1
     confirmacao = str(input())
 
-print(f"Você digitou {quantidade} números.")
+print(f"Você digitou {quantidade} números")
 print(f"A soma final é: {soma:.2f}")
